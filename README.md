@@ -1,4 +1,4 @@
- ### Olá! Me chamo Renato e seja muito bem vindo(a) ao meu GitHub 😎
+ ### Olá! 👋 Eu me chamo Renato 😃 seja muito bem vindo(a) ao meu GitHub! 🫡
  
 <div>
   <a href="https://github.com/Natofreiberg3r">
